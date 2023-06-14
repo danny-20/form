@@ -1,0 +1,22 @@
+/* Form.css */
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+.form-control-textarea {
+  height: 150px;
+}
+
+.education-item,
+.experience-item {
+  margin-bottom: 10px;
+}
